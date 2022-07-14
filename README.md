@@ -167,7 +167,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"
       alt=".NET"
-      width="80"
+      width="60"
       height="40"
     />
   </a>
@@ -176,7 +176,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg"
       alt=".NET"
-      width="80"
+      width="40"
       height="40"
     />
   </a>
