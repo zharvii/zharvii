@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zharvi Achmadha</h1>
-<h3 align="center">I'm a junior web developer, I love helping people learn programming, I'm a web programmer from Indonesia, nice to meet you</h3>
+<h3 align="center">I'm a junior programmer, nice to meet you</h3>
 
-- 🦠 I'm create corona tracker with react and tailwindcss [Wulan Corona Tracker](https://react-app-a6cd3.web.app/)
 
-- 🧧 I'm create Spp Payment with Laravel and hosting into heroku [Wulan Spp Payment](http://laravel-heroku-spp.herokuapp.com/)
-
-- 🤝I'm try to clone website WPU and rebuild this with tailwindcss [Wulan Unpas](https://wulan-unpas.netlify.app/)
-
-- 🙉 You can see my portofolio website in [rickydamar.vercel.app](https://rickydamar.vercel.app)
-
-- 💬 Ask me about **react, laravel, tailwindcss**
-
-- 📫 How to reach me **retrocode.rc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://web.facebook.com/rickydamar.saputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ricky damar saputra" height="30" width="40" /></a>
-</p>
+
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ricky-damar-saputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricky damar saputra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zharvi-achmadha-b283391aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zharvi Achmadha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
