@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zharvi Achmadha</h1>
-<h3 align="center">I'm a junior programmer, nice to meet you</h3>
+<h3 align="center">I'm a junior programmer and system analyst, nice to meet you</h3>
 
 
 
