@@ -162,6 +162,14 @@
       height="40"
     />
   </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img
+      src="https://developer.fedoraproject.org/tech/languages/csharp/about.html"
+      alt="react"
+      width="80"
+      height="40"
+    />
+  </a>
  
 </p>
 
