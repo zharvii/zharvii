@@ -134,11 +134,31 @@
     />
   </a>
   
-    <a href="https://www.postgresql.org/" target="_blank">
+   
+  
+  <a href="https://www.postgresql.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
       alt="react"
-      width="40"
+      width="90"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"
+      alt="react"
+      width="90"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
+      alt="react"
+      width="90"
       height="40"
     />
   </a>
