@@ -149,7 +149,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"
       alt="react"
-      width="90"
+      width="70"
       height="40"
     />
   </a>
@@ -158,7 +158,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
       alt="react"
-      width="90"
+      width="80"
       height="40"
     />
   </a>
