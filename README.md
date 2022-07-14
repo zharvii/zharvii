@@ -133,6 +133,15 @@
       height="40"
     />
   </a>
+  
+    <a href="https://www.postgresql.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
  
 </p>
 
