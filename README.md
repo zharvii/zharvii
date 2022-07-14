@@ -162,6 +162,24 @@
       height="40"
     />
   </a>
+  
+   <a href="https://www.java.com/en/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"
+      alt=".NET"
+      width="80"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://developer.android.com/studio" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg"
+      alt=".NET"
+      width="80"
+      height="40"
+    />
+  </a>
 
  
 </p>
