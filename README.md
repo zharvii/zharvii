@@ -139,7 +139,7 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
-      alt="react"
+      alt="PostgreSQL"
       width="90"
       height="40"
     />
@@ -148,7 +148,7 @@
    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"
-      alt="react"
+      alt="SQL Server"
       width="70"
       height="40"
     />
@@ -157,19 +157,12 @@
    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
-      alt="react"
+      alt=".NET"
       width="80"
       height="40"
     />
   </a>
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img
-      src="https://developer.fedoraproject.org/tech/languages/csharp/about.html"
-      alt="react"
-      width="80"
-      height="40"
-    />
-  </a>
+
  
 </p>
 
